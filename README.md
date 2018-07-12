@@ -5,4 +5,4 @@ ac-stark shift and ionization intersection causes the dynamic interference fring
 
 Here we use the ansatz of linear ac-stark shift
 
-$\Delta(t) = const*g(t)^2$
+\Delta(t) = const*g(t)^2
